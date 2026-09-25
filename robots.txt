@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://impact-international-youth.official-cd7.workers.dev/sitemap.xml
